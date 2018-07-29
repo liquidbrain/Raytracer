@@ -12,4 +12,4 @@ Image created setting the constants in populateRandomWorld() to -5/5 and the num
 
 Image of the original sphere and diffuse material, where things started to get interesting:
 
-![alt text](screenshots/image-org_sphere.png.png "Ray tracer output 1")
+![alt text](screenshots/image-org_sphere.png "Ray tracer output 1")
